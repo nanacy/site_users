@@ -1,24 +1,17 @@
 # README
+A Rails application where you can add user
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation
 
-Things you may want to cover:
+Version of ruby : **'2.5.1'**
+Execute the following line to install the necessary gems and the correct version of Ruby:  
+```
+git clone "repo"
+```
 
-* Ruby version
+## Display the program
 
-* System dependencies
+* Open the file : https://heroku-site-users.herokuapp.com
+* Do not forget to actualize and enjoy
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+--------------------------------------
